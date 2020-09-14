@@ -1,8 +1,3 @@
-
-
-
-![ntedgi's github stats](https://github-readme-stats.vercel.app/api?username=ntedgi)
-
 My name is Naor Tedgi and I'm a software engineer. I'm from Israel, living in Beersheva and currently working at VoyagerLabs. 
 
 ## 🔧 Technologies & Tools
