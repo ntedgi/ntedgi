@@ -1,6 +1,6 @@
 My name is Naor Tedgi and I'm a software engineer. I'm from Israel, living in Beersheva and currently working at VoyagerLabs. 
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
@@ -15,7 +15,7 @@ My name is Naor Tedgi and I'm a software engineer. I'm from Israel, living in Be
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 ![ntedgi's github stats](https://github-readme-stats.vercel.app/api?username=ntedgi&count_private=true&show_icons=true&theme=vue-dark)
 
