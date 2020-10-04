@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/ntedgi/ntedgi/blob/master/yoda.jpg?raw=true)
+![alt text](https://github.com/ntedgi/ntedgi/blob/master/yoda.png?raw=true)
 
 
 ##  Technologies & Tools
