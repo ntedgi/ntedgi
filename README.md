@@ -4,6 +4,8 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div align="center">
+  	<br>
+
   <a href="https://stackoverflow.com/users/4267015/naor-tedgi">
     <img align="left" alt="Naor Tedgi | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
@@ -19,8 +21,9 @@
   <a href="https://www.reddit.com/user/hash_t/">
     <img align="left" alt="Naor Tedgi | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
   </a>
-</div>
 <br>
+  
+</div>
 
 ##  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
