@@ -1,8 +1,9 @@
 
 ![alt text](https://github.com/ntedgi/ntedgi/blob/master/yoda.png?raw=true)
-
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<hr>
+
 <div align="center" width="800px">
     <br>
     <a target="_blank"  href="https://stackoverflow.com/users/4267015/naor-tedgi">
