@@ -1,4 +1,6 @@
-My name is Naor Tedgi and I'm a software engineer. I'm from Israel, living in Beersheva and currently working at VoyagerLabs. 
+
+![alt text](https://github.com/ntedgi/ntedgi/blob/master/yoda.jpg?raw=true)
+
 
 ##  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
