@@ -23,10 +23,6 @@
         <img align="left" alt="Naor Tedgi | Instagram" width="22px"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
-    <a target="_blank" href="https://www.reddit.com/user/hash_t/">
-        <img align="left" alt="Naor Tedgi | Reddit" width="22px"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-    </a>
     <br>
 </div>
 
