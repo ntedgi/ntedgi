@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naor</h1>
 <h3 align="center">Software Ninjaneer, Husband, Father, גולנצ'יק.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntedgi&label=Profile%20views&color=0e75b6&style=flat" alt="ntedgi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntedgi" alt="ntedgi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/naor_tedgi" target="blank"><img src="https://img.shields.io/twitter/follow/naor_tedgi?logo=twitter&style=for-the-badge" alt="naor_tedgi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntedgi&label=Profile%20views&color=0e75b6&style=flat" alt="ntedgi" /> </p><p align="left"> <a href="https://twitter.com/naor_tedgi" target="blank"><img src="https://img.shields.io/twitter/follow/naor_tedgi?logo=twitter&style=for-the-badge" alt="naor_tedgi" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [http://naortedgi.com/](http://naortedgi.com/)
 
-- 📝 I regularly write articles on [NodeJS](NodeJS) - (https://github.com/ntedgi/Demand-TechTalks)
+- 📝 I regularly write on [NodeJS](NodeJS) - (https://github.com/ntedgi/Demand-TechTalks)
 
 - 📫 How to reach me **naor.tedgi@gmail.com**
 
