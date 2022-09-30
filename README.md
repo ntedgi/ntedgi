@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://naortedgi.com/](http://naortedgi.com/)
 
-- 📝 I regularly write articles on [NodeJS, V8, Streams](NodeJS, V8, Streams)
+- 📝 I regularly write articles on [NodeJS](NodeJS) - (https://github.com/ntedgi/Demand-TechTalks)
 
 - 📫 How to reach me **naor.tedgi@gmail.com**
 
