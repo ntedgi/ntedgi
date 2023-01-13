@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Naor</h1>
+- All of my projects are available at [http://naortedgi.com/](http://naortedgi.com/)
 
-- 👨‍💻 All of my projects are available at [http://naortedgi.com/](http://naortedgi.com/)
+- I regularly write on Node JS , V8 - (https://github.com/ntedgi/infra-meetings)
 
-- 📝 I regularly write on Node JS , V8 - (https://github.com/ntedgi/infra-meetings)
+- How to reach me **naor.tedgi@gmail.com**
 
-- 📫 How to reach me **naor.tedgi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/naortedgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naortedgi" height="30" width="40" /></a>
 <a href="https://twitter.com/naor_tedgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naor_tedgi" height="30" width="40" /></a>
