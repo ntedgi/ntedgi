@@ -5,10 +5,6 @@
 - How to reach me **naor.tedgi@gmail.com**
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ntedgi&theme=juicyfresh&column=3&no-bg)](https://github.com/ntedgi/github-profile-trophy)
-
-
-
 <p align="left">
 <a href="https://twitter.com/naor_tedgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naor_tedgi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naor-tedgi-11314284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naor-tedgi-11314284" height="30" width="40" /></a>
