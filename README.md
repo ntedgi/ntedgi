@@ -5,9 +5,6 @@
 - How to reach me **naor.tedgi@gmail.com**
 
 
-<img align="center" src="https://media1.tenor.com/m/Cv67KSDwSucAAAAC/white-rabbit-matrix.gif" alt="naor_tedgi" height="300" width="10000" /></a>
-
-
 <p align="left">
 <a href="https://twitter.com/naor_tedgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naor_tedgi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naor-tedgi-11314284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naor-tedgi-11314284" height="30" width="40" /></a>
