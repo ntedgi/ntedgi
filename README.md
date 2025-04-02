@@ -10,7 +10,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads   |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **370,981** |
+| **Total**                                                                                            | **372,981** |
 | [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 310,224     |
 | [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 59,106      |
 | [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 2,095       |
