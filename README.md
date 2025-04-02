@@ -3,6 +3,8 @@
 - **Writing & Insights:** I regularly share insights on Node.js, V8, and infrastructure topics. Read my tech talks at [My Tech Talks Repository](https://github.com/ntedgi/my-tech-talks).
 
 - **Open source projects**
+  
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fntedgi%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
 [![NPM](https://nodei.co/npm/node-efficientnet.png?downloads=true)](https://www.npmjs.com/package/node-efficientnet)  
 [![NPM](https://nodei.co/npm/express-body-parser-error-handler.png?downloads=true)](https://www.npmjs.com/package/express-body-parser-error-handler)  
