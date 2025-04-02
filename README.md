@@ -7,6 +7,7 @@
 [![NPM](https://nodei.co/npm/node-efficientnet.png?downloads=true)](https://www.npmjs.com/package/node-efficientnet)  
 [![NPM](https://nodei.co/npm/express-body-parser-error-handler.png?downloads=true)](https://www.npmjs.com/package/express-body-parser-error-handler)  
 [![NPM](https://nodei.co/npm/node-valkey.png?downloads=true)](https://www.npmjs.com/package/node-valkey)  
+[![NPM](https://nodei.co/npm/isvalid-legacy.png?downloads=true)](https://www.npmjs.com/package/isvalid-legacy)  
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
 
