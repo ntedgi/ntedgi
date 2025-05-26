@@ -3,7 +3,7 @@ name: Update NPM Downloads Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "1 0 * * *"
+    - cron: "0 0 * * 0"
 
 jobs:
   update:
